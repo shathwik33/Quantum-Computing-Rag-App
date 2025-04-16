@@ -1,0 +1,12 @@
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-chroma
+chromadb
+huggingface_hub
+sentence-transformers
+openai
+PyMuPDF
